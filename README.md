@@ -7,4 +7,4 @@ Blog:
 
 Wechat Official Account: ScienceRecord
 
-Origin model:链接：https://pan.baidu.com/s/1Zd0BHtcZBL3dIYuThrXFWA    提取码：s8jm 
+Origin model:https://pan.baidu.com/s/1Zd0BHtcZBL3dIYuThrXFWA   s8jm 

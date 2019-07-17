@@ -7,4 +7,4 @@ Blog:https://blog.csdn.net/qq_35999634/article/details/96196296
 
 Wechat Official Account: ScienceRecord
 
-Origin model:https://pan.baidu.com/s/1Zd0BHtcZBL3dIYuThrXFWA   s8jm 
+Original model:https://pan.baidu.com/s/1Zd0BHtcZBL3dIYuThrXFWA   s8jm 

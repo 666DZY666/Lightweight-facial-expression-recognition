@@ -3,7 +3,7 @@ Face detection, expression recognition, model compression, terminal deployment
 
 Video:https://www.bilibili.com/video/av59467727/
 
-Blog:
+Blog:https://blog.csdn.net/qq_35999634/article/details/96196296
 
 Wechat Official Account: ScienceRecord
 
